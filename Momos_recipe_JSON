@@ -1,0 +1,305 @@
+<!doctype HTML>
+<html class="no-js">
+    <head>
+        <meta charset=utf-8>
+        <title>Home of Snacks - Recipe</title>
+        <meta name="viewport" content="width=device-width,initial-scale=1">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700">
+        <link rel="manifest" href="manifest.json">
+        <link rel="stylesheet" href="third_party/css/bootstrap.css">
+        <link rel="stylesheet" href="third_party/css/mysite.css">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <meta name="description" content="This shop is awesome.">
+        <script type="application/ld+json">
+        {
+        "@context": "http://schema.org/",
+        "@type": "Recipe",
+        "name":  "Vegetable Momos",
+        "image": [
+            "https://www.khanakhazana.org/uploads/recipe/vegetable-momas-810.jpeg"
+        ],
+        "author": {
+            "@type": "Person",
+            "name": "Akanksha Raghav"
+        },
+        "datePublished": "15/08/2019",
+        "description": "Vegetables momos are delicious easy to cook and loved by every age group",          
+        "prepTime": "PT10M",
+        "cookTime": "PT40M",
+        "totalTime": "PT50M",
+        "recipeYield": "10 servings",
+        "recipeCategory": "Snacks",
+        "recipeCuisine": "Indian",
+        "keywords": "Evening snack for family",
+        "nutrition": {
+            "@type": "NutritionInformation",
+            "calories": "280 calories"
+        },
+        "recipeIngredient": [
+        	"For Dough:",
+            "2 cups maida",
+            "1/2 tsp salt",
+            "1/2 tsp baking powder",
+            "For Filling:",
+            "1 cup carrots, grated",
+			"1 cup cabbage, grated",
+			"1 tbsp oil",
+			"1/2 cup onion, finely chopped",
+			"1 tsp garlic, chopped",
+			"1 tsp soya sauce",
+			"salt",
+			"1/4 tsp vinegar",
+			"1/4 tsp black pepper"
+            ],
+        "recipeInstructions": [
+              {
+              "@type": "HowToStep",
+              "text": "Mix the maida, salt and baking powder and knead to a stiff dough with water."
+              },
+              {
+              "@type": "HowToStep",
+              "text": "Heat oil and add the onion and garlic."
+              },
+              {
+              "@type": "HowToStep",
+              "text": "Saute over high heat and add the carrot and cabbage. Turn around over high heat till glossy."
+              },
+              {
+              "@type": "HowToStep",
+              "text": "Take it off the heat and mix in the soya sauce, salt, vinegar and black pepper."
+              },
+              {
+              "@type": "HowToStep",
+              "text": "Roll the dough thin (translucent) and cut into 4-5 rounds."
+              },
+              {
+              "@type": "HowToStep",
+              "text": "Take a round, wet edges and place some filling in the center."
+              },
+              {
+              "@type": "HowToStep",
+              "text": "Bring edges together to cover the filling. Twist to seal and fill the rest in the same way."
+              },
+              {
+              "@type": "HowToStep",
+              "text": "Steam for about 10 minutes and serve with soya sauce and chilli sauce."
+              }
+          ],
+        "video": [
+            {
+            "@type": "VideoObject", 
+            "name": "Veg Momos recipe ",
+            "description": "Steamed Veg momos is a popular recipe of Tibet, Bhutan and Nepal. This healthy veg steamed momos is very easy to prepare with refined flour and some veggies",
+            "thumbnailUrl": [
+              "https://www.khanakhazana.org/uploads/recipe/vegetable-momas-810.jpeg"
+             ],
+            "contentUrl": "https://www.youtube.com/watch?v=cs1z31m-0-U",
+            "embedUrl": "https://www.youtube.com/watch?v=cs1z31m-0-U",
+            "uploadDate": "2018-02-05T08:00:00+08:00",
+            "duration": "PT10M06S",
+            "interactionCount": "4347"
+           }
+          ],
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "5",
+            "ratingCount": "18"
+            },
+        "review": {
+            "@type": "Review",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "4",
+                "bestRating": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Akanksha"
+            },
+            "datePublished": "2019-08-15",
+            "reviewBody": "Delicious Momos",
+            "publisher": "Momos Khana Khazana"
+            }
+         }
+        </script>
+    </head>
+    <body>
+        <!-- Navigation -->
+        <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+            <div class="container">
+                <!-- Brand and toggle get grouped for better mobile display -->
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="index.html">MOMOS KHANA KHAZANA</a>
+                </div>
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                    <ul class="nav navbar-nav navbar-right">
+                        <li>
+                            <a href="recipes.html">Recipes</a>
+                        </li>
+                        <li>
+                            <a href="about.html">About</a>
+                        </li>
+                        <li>
+                            <a href="contact.html">Contact</a>
+                        </li>
+                    </ul>
+                </div>
+                <!-- /.navbar-collapse -->
+            </div>
+            <!-- /.container -->
+        </nav>
+    
+        <!-- Page Content -->
+        <div class="container">
+    
+        <!-- Page Heading/Breadcrumbs -->
+        <div class="row">
+                <div class="col-lg-12">
+                    <h1 class="page-header">Recipe XYZ
+                        <small>Subheading</small>
+                    </h1>
+                    <ol class="breadcrumb">
+                        <li><a href="index.html">Home</a>
+                        </li>
+                        <li><a href="recipes.html">Recipes</a>
+                        </li>
+                        <li class="active">MOMOS</li>
+                    </ol>
+                </div>
+            </div>
+            <!-- /.row -->
+    
+            <!-- Features Section -->
+            <div class="row">
+                <div class="col-lg-12">
+                    <h2 class="page-header">Vagetable momos</h2>
+                </div>
+                <div class="col-md-6">
+                    <p><strong>Recipe author</strong>:Akanksha Raghav</p>
+                    <p><strong>Date published</strong>: August 15, 2019</p>
+                    <p>Vegetable momos are delicious and easy cook snack.</p>
+                    <h2>Ingredients</h2>
+                    <ul>
+                        <h3>For Dough:</h3>
+            			<li>2 cups maida</li>
+            			<li>1/2 tsp salt</li>
+            			<li>1/2 tsp baking powder</li>
+            			<h3>For Filling</h3>
+            			<li>1 cup carrots, grated</li>
+						<li>1 cup cabbage, grated</li>
+						<li>1 tbsp oil</li>
+						<li>1/2 cup onion, finely chopped</li>
+						<li>1 tsp garlic, chopped</li>
+						<li>1 tsp soya sauce</li>
+						<li>salt</li>
+						<li>1/4 tsp vinegar</li>
+						<li>1/4 tsp black pepper</li>
+                        <h2>Directions</h2>
+                        <p>Yield: 10 servings</p>
+                        <p>Prep time: 10 minutes</p>
+                        <p>Cook time: 40 minutes</p>
+                        <p>Total time: 50 minutes</p>
+                        <li>Mix the maida, salt and baking powder and knead to a stiff dough with water.</li>
+                        <li>Heat oil and add the onion and garlic.</li>
+                        <li>Saute over high heat and add the carrot and cabbage. Turn around over high heat till glossy.</li>
+                        <li>Take it off the heat and mix in the soya sauce, salt, vinegar and black pepper.</li>
+                        <li>Roll the dough thin (translucent) and cut into 4-5 rounds.</li>            
+                        <li>Take a round, wet edges and place some filling in the center.</li>
+                        <li>Bring edges together to cover the filling. Twist to seal and fill the rest in the same way.</li>
+                        <li>Steam for about 10 minutes and serve with soya sauce and chilli sauce.</li>
+                        </ul>
+                    <h2>Nutrition facts</h2>
+                    <p>Per piece: 280 calories; 12 g fat; 35 carbohydrates;38 mg cholesterol</p>
+                </div>
+                <div class="col-md-6">
+                    <img src="https://www.khanakhazana.org/uploads/recipe/vegetable-momas-810.jpeg">
+                </div>
+            </div>
+            <!-- /.row -->
+            <hr>
+            <!-- Reviews Section -->
+            <div class="row">
+                <div class="col-lg-12">
+                    <h2 class="page-header">0 user reviews</h2>
+                </div>
+                <!-- submit review column -->
+                <div class="col-md-6">
+                    <form name="sentMessage" id="newReview" novalidate>
+                        <div>Leave your review here!</div>
+                        <div class="control-group form-group">
+                            <div class="controls">
+                                <label>Your Name:</label>
+                                <input type="text" class="form-control" id="name" 
+                                    required data-validation-required-message="Please enter your name.">
+                                <p class="help-block"></p>
+                            </div>
+                        </div>
+                        <div class="control-group form-group">
+                            <div class="controls">
+                                <label>Rating:</label>
+                                <select name="review" id="review" class="form-control" 
+                                    required data-validation-required-message="Please select a rating.">
+                                    <option value="5">5 Stars (*****)</option>
+                                    <option value="4">4 Stars (****)</option>
+                                    <option value="3">3 Stars (***)</option>
+                                    <option value="2">2 Stars (**)</option>
+                                    <option value="1">1 Star  (*)</option>
+                                </select>
+                                <p class="help-block"></p>
+                            </div>
+                        </div>
+                        <div class="control-group form-group">
+                            <div class="controls">
+                                <label>Review text:</label>
+                                <textarea rows="5" cols="100" class="form-control" id="message" 
+                                    required data-validation-required-message="Please enter your message" 
+                                    maxlength="999" style="resize:none"></textarea>
+                            </div>
+                        </div>
+                        <div id="success"></div>
+                        <!-- For success/fail messages -->
+                        <button type="submit" class="btn btn-primary">Submit review</button>
+                    </form>
+                </div>
+            </div>
+            <!-- /.row -->
+                
+            <hr>
+    
+            <!-- Call to Action Section -->
+            <div class="well">
+                <div class="row">
+                    <div class="col-md-8">
+                        <p>Try out veg momos!</p>
+                    </div>
+                    <div class="col-md-4">
+                        <a class="btn btn-lg btn-primary btn-block" href="#">Bake that cake</a>
+                    </div>
+                </div>
+            </div>
+    
+            <hr>
+    
+            <!-- Footer -->
+            <footer>
+                <div class="row">
+                    <div class="col-lg-12">
+                        <p>Copyright &copy; Vegetable momos | 
+                            <a href="http://html5-templates.com/" target="_blank" rel="nofollow">HTML5 Templates</a></p>
+                    </div>
+                </div>
+            </footer>
+    
+        </div>
+        <!-- /.container -->
+    
+    
+    </body>
+</html>
