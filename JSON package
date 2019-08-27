@@ -1,0 +1,112 @@
+<script type="application/ld+json">
+        {
+        "@context": "http://schema.org/",
+        "@type": "Recipe",
+        "name":  "Vegetable Momos",
+        "image": [
+            "https://www.khanakhazana.org/uploads/recipe/vegetable-momas-810.jpeg"
+        ],
+        "author": {
+            "@type": "Person",
+            "name": "Akanksha Raghav"
+        },
+        "datePublished": "15/08/2019",
+        "description": "Vegetables momos are delicious easy to cook and loved by every age group",          
+        "prepTime": "PT10M",
+        "cookTime": "PT40M",
+        "totalTime": "PT50M",
+        "recipeYield": "10 servings",
+        "recipeCategory": "Snacks",
+        "recipeCuisine": "Indian",
+        "keywords": "Evening snack for family",
+        "nutrition": {
+            "@type": "NutritionInformation",
+            "calories": "280 calories"
+        },
+        "recipeIngredient": [
+        	"For Dough:",
+            "2 cups maida",
+            "1/2 tsp salt",
+            "1/2 tsp baking powder",
+            "For Filling:",
+            "1 cup carrots, grated",
+			"1 cup cabbage, grated",
+			"1 tbsp oil",
+			"1/2 cup onion, finely chopped",
+			"1 tsp garlic, chopped",
+			"1 tsp soya sauce",
+			"salt",
+			"1/4 tsp vinegar",
+			"1/4 tsp black pepper"
+            ],
+        "recipeInstructions": [
+              {
+              "@type": "HowToStep",
+              "text": "Mix the maida, salt and baking powder and knead to a stiff dough with water."
+              },
+              {
+              "@type": "HowToStep",
+              "text": "Heat oil and add the onion and garlic."
+              },
+              {
+              "@type": "HowToStep",
+              "text": "Saute over high heat and add the carrot and cabbage. Turn around over high heat till glossy."
+              },
+              {
+              "@type": "HowToStep",
+              "text": "Take it off the heat and mix in the soya sauce, salt, vinegar and black pepper."
+              },
+              {
+              "@type": "HowToStep",
+              "text": "Roll the dough thin (translucent) and cut into 4-5 rounds."
+              },
+              {
+              "@type": "HowToStep",
+              "text": "Take a round, wet edges and place some filling in the center."
+              },
+              {
+              "@type": "HowToStep",
+              "text": "Bring edges together to cover the filling. Twist to seal and fill the rest in the same way."
+              },
+              {
+              "@type": "HowToStep",
+              "text": "Steam for about 10 minutes and serve with soya sauce and chilli sauce."
+              }
+          ],
+        "video": [
+            {
+            "@type": "VideoObject", 
+            "name": "Veg Momos recipe ",
+            "description": "Steamed Veg momos is a popular recipe of Tibet, Bhutan and Nepal. This healthy veg steamed momos is very easy to prepare with refined flour and some veggies",
+            "thumbnailUrl": [
+              "https://www.khanakhazana.org/uploads/recipe/vegetable-momas-810.jpeg"
+             ],
+            "contentUrl": "https://www.youtube.com/watch?v=cs1z31m-0-U",
+            "embedUrl": "https://www.youtube.com/watch?v=cs1z31m-0-U",
+            "uploadDate": "2018-02-05T08:00:00+08:00",
+            "duration": "PT10M06S",
+            "interactionCount": "4347"
+           }
+          ],
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "5",
+            "ratingCount": "18"
+            },
+        "review": {
+            "@type": "Review",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "4",
+                "bestRating": "5"
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Akanksha"
+            },
+            "datePublished": "2019-08-15",
+            "reviewBody": "Delicious Momos",
+            "publisher": "Momos Khana Khazana"
+            }
+         }
+        </script>
