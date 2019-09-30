@@ -10,7 +10,8 @@
         <link rel="stylesheet" href="third_party/css/mysite.css">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
         <meta name="description" content="This shop is awesome.">
-        <script type="application/ld+json">
+	<!--JSON coding --!>
+        <script type="application/ld+json">              
         {
         "@context": "http://schema.org/",
         "@type": "Recipe",
